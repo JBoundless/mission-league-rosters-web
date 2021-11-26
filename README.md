@@ -27,4 +27,4 @@ https://notre-dame-roster-web.vercel.app
 ## Harvard-Westlake
 https://harvard-westlake-roster-web.vercel.app
 
-***A mobile version can be found here: https://github.com/JBoundless/mission-league-rosters-mobile
+*A mobile version can be found here: https://github.com/JBoundless/mission-league-rosters-mobile
