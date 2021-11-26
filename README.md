@@ -22,4 +22,6 @@ https://crespi-web-roster.vercel.app
 
 ## Notre Dame
 
+https://notre-dame-roster-web.vercel.app
+
 ## Harvard-Westlake
