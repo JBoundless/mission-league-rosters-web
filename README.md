@@ -11,3 +11,7 @@ https://st-francis-roster.vercel.app
 ## Alemany
 
 https://alemany-roster-web.vercel.app
+
+## Chaminade
+
+https://chaminade-web.vercel.app
