@@ -7,3 +7,7 @@ https://loyola-vbb-roster-web.vercel.app
 ## St. Francis
 
 https://st-francis-roster.vercel.app
+
+## Alemany
+
+https://alemany-roster-web.vercel.app
