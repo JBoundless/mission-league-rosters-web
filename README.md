@@ -15,3 +15,11 @@ https://alemany-roster-web.vercel.app
 ## Chaminade
 
 https://chaminade-web.vercel.app
+
+## Crespi
+
+https://crespi-web-roster.vercel.app
+
+## Notre Dame
+
+## Harvard-Westlake
